@@ -1,0 +1,2 @@
+The list of videos to watch at Udacity looked overwhelming to me at first. Thankfully, by applying the pomodoro technique, I managed to completed the lesson 1 and 2 in time. Really glad that I finished the assignments on this week on time, good job to me!
+What I like to improve on is my stress management, hopefully by practising the 2 minutes meditation more, I would learn to control my emotions and thus bring down my stress level.
