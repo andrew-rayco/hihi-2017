@@ -1,0 +1,3 @@
+What I did well this week was getting a headstart on some Javascript because I think it is something that I struggled with in the past when doing the Codecademy course and familiarizing myself with it before studying it in sprint 4 should help me to master it better than going into it completely fresh.
+
+What I could improve is again getting up earlier and coming into course and fixing my sleeping patterns. I also think because I had done most of this weeks stuff already I could have had a bit more motivation. I feel like it gave me a sense of 'lost steam' and the huge motivation I had last week wasn't there because it seemed like there wasn't much stuff in front of me to learn. 
