@@ -38,7 +38,7 @@ understanding of how they work.
 
 I've heard a lot about Grid, so I'm gonna take that for a Hello World too. 
 
-Centering with CSS
-Absolute and relative positioning
-Flexbox
-Grid
+Centering with CSS, 
+Absolute and relative positioning, 
+Flexbox, and 
+Grid.
