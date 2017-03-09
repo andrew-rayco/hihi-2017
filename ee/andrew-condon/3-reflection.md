@@ -17,7 +17,9 @@ something that I could've improved on this week as well, because I gave too
 much focus to the product over the process. I'll be sure to work on that.
 
 Fun. I really had some fun this week. I believe feeling less pressure was 
-a big part of that. It's also 
+a big part of that. I'm sure it's also not just a coincidence that styling 
+a site is something it seems I really enjoy. Who knew? (I kinda had an
+inkling).
 
 ##What could I have done to improve?
 As mentioned above, I couldn't stop tweaking the site when the six hour 
