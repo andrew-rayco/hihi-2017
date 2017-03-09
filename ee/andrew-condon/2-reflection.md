@@ -1,4 +1,4 @@
-#Reflection week two
+#Reflection sprint two
 
 ##What did I do well this week?
 I read like a banshee. I had reading up the wazoo. I read every word in every article in every concept. 
