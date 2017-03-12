@@ -2,7 +2,7 @@
 
 ####What did I do well this week?
 
-This week I approached problems with a much better attitude, managing to not get a impractically frustrated like previous weeks.
+This week I approached problems with a much better attitude, managing to not get as impractically frustrated like previous weeks.
 
 ####What could I have done to improve?
 
