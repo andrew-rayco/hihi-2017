@@ -1,0 +1,1 @@
+Successfully redesigned my website and also made it responsive. Having longer concentration time, I could stay focused for at least 60 minutes, this is a big improvement to me. What should I improve on? Maybe try to complete all the work 1 to 2 days early so that I don't have to rush during the last day of the week. 
