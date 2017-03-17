@@ -1,0 +1,1 @@
+I started this week's assignments on Monday and kept up steady progress throughout the week. I found it hard to stay put and go through all the JavaScript exercises as I didn't really feel like anything was sinking in. I skipped ahead sometimes. I'm hoping JavaScript will make more sense to me next week.
