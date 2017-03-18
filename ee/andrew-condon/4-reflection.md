@@ -1,6 +1,7 @@
 #Reflection sprint four
 
 ##What did I do well this week?
+
 Everything started out great with my time commitment and progress. I really
 felt like I was powering along. I was quite happy with my focus levels, and
 particularly pleased at how well I remembered what I had learned the first
@@ -15,6 +16,7 @@ because I'm getting better at not blocking off my mind when I think things are
 difficult. Hopefully that's here to stay.
 
 ##What could I have done to improve?
+
 Okay, so I totally did the wrong Codeacademy JavaScript course. I did the
 'learn JavaScript' (I think that's what it was called) instead of the
 'JavaScript' course. Easy to get them confused eh?
