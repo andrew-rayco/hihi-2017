@@ -1,4 +1,4 @@
-#Reflection sprint 1
+#Reflection sprint one
 
 ##Why is reflection important?
 Reflection helps the brain move new knowledge from the short term memory into the long term memory. It's also effective as a source of assessment of one's progress, be it self-assessment or otherwise.
