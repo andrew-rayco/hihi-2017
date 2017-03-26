@@ -1,6 +1,6 @@
-#Reflection sprint four
+# Reflection sprint four
 
-##What did I do well this week?
+## What did I do well this week?
 
 Everything started out great with my time commitment and progress. I really
 felt like I was powering along. I was quite happy with my focus levels, and
@@ -15,7 +15,7 @@ experimentation I had done in between I can't be sure. It may have even been
 because I'm getting better at not blocking off my mind when I think things are
 difficult. Hopefully that's here to stay.
 
-##What could I have done to improve?
+## What could I have done to improve?
 
 Okay, so I totally did the wrong Codeacademy JavaScript course. I did the
 'learn JavaScript' (I think that's what it was called) instead of the
@@ -29,4 +29,4 @@ a couple of days this week where I missed/forgot to meditate. This disappoints
 me. I'm very much enjoying meditation and can see the benefits of it, so I'd
 really like to stick to my commitment to meditate daily. At the moment I'm just
 meditating when a small window appears in my day. I need to start doing it
-first thing every morning. 
+first thing every morning.

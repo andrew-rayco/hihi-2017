@@ -1,0 +1,1 @@
+this week, I am glad I finished the javascript challenges also meetup with some cohort members at EDA campus. I found that studying along with peers is motivating and keeping me on track. Would like to see myself practising on mindfulness and self awareness more often.
