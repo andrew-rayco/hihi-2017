@@ -1,5 +1,4 @@
 
-</title>Reflection</title>
  <body>
   <h5> What did I do well this week? </h5>
     <p>
