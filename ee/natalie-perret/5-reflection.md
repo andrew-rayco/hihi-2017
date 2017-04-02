@@ -1,0 +1,1 @@
+I read through the sprint document on day one and through all the assignments to get a good feel for the workload. However, during the week I was distracted with family obligations and quickly fell behind. I also realise that I have an impatience which is not well suited for coding and that having the answers easily accessible means that I give up trying too easily. 
