@@ -1,0 +1,1 @@
+This week was not that great, I had a lot of work stuff come up so I kinda left the coursework till the Friday-Sunday period. It felt a bit rushed and I would have liked to have had more time to digest the concepts, I'm not sure if anything will really stick and i think the JSON/AJAX stuff is going to be quite crucial later on. 
