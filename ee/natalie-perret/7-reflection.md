@@ -1,0 +1,1 @@
+This week, I really enjoyed the pair programming as it was good to have the support of others to get the task done. I still really struggle with the JavaScript concepts and need to spend more time on this however I don't seem to learn from just reading text explaining the concepts in abstract form. I will try and find more helpful YouTube videos explaining how JS works. 
