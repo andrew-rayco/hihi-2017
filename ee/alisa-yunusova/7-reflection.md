@@ -1,0 +1,1 @@
+This week I feel like I was keeping up with the material. What I really should have done better is go through more than 4 hours worth of algorithm exercises. But I didn't attempt to go outside of the time box. I should also be touch typing by now I feel and i do not quite yet. Other than that I enjoy writing javascript very much and enjoy learning new things
