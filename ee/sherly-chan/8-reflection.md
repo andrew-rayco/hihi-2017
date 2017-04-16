@@ -1,0 +1,1 @@
+tried pair coding, it was not as scary as I thought. I wasn't as bad as I thought talking and communicating with people. At least people still can understand me. Just need to work on establishing a good routine, 1 more week to go for the actual bootcamp to start. Good luck!
