@@ -1,0 +1,4 @@
+What did I do well this week?  
+I had a really good week in terms of general happiness. I made an effort to take time out for myself and it really made me happy I'm going to try keep it up even when doing the full time course. I was so proud of my calculator, I put a lot of time into it even when not at the computer, gave it to a few people to review and fixed all the bugs they pointed out and the improvements they suggested so the final product was very well thought out. It was fun trying to condense the code (:  
+What could I have done to improve?  
+I was really anxious about the peer programming and I definitely shied away from it. I was extremely tired that day but I just struggle to engage with other people and I feel a lot of pressure when I'm working with someone else it makes it hard for me to focus. I 100% need to learn how to deal with that and how to get into a good flow even when I'm not on my own it's going to be vital.  
