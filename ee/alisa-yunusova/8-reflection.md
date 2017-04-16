@@ -1,0 +1,1 @@
+This week I completed all tasks and feel good to have made it this far. Frustrations include the speed at which i touch type and the amount of unknown that still lies outside of my area of knowledge. Otherwise I am happy and look forward to more work and learning.
