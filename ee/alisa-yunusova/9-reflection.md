@@ -1,0 +1,1 @@
+I managed my time very well in the sense that i learnt about the new concept of canvas every evening in bite sized sessions and moved incrementally from drawing a basic element. What I should have done better is brush over some things that are on competency self check list that I may have forgotten
