@@ -1,0 +1,1 @@
+This week I was pretty bad in terms of getting a lot of course work done, I was doing to much other work and it made me a bit stressed out, and when I did have time to code I spent it doing VR stuff instead of focusing more on Javascript, which is not ideal when bootcamp is so close. Will work harder at it this coming week. 

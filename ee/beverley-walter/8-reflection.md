@@ -1,0 +1,4 @@
+What did I do well this week?
+I didn't give up! I asked for help! Weirdly those don't exactly sound like they are high points, but I am learning to reframe 'asking for help' - it doesn't mean I have failed - right? It means I recognise the strength in doing things together, and I can acknowledge that others may have different strengths or at the very least fresh eyes. I have also submitted a calculator that I am not completely happy with in terms of styling - this is a big deal for me as usually I would spend hours and hours pouring over the design, because it is within my comfort zone. Again, I am learning, this is about my code, not about my design.
+What could I have done to improve?
+I thought I'd have a little time over the weekend to finish this reflection and my times sheet things, but I didn't - next time I think I should ust deal with this at the end of the week, rather than leaving it. Its too tricky to fit these tasks in around children :) Thanks
